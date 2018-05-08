@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Github Stalker</string>
+    <string name="swipe_to_refresh">Swipe to refresh</string>
+    <string name="no_repos_found">No Repos Found</string>
+    <string name="description">DESCRIPTION</string>
+    <string name="created_by">CREATED BY</string>
+    <string name="stars">STARS</string>
+    <string name="repoListActivityTitle">Top Android Repos</string>
+</resources>
